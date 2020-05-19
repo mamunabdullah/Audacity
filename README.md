@@ -1,2 +1,0 @@
-# Audacity
-Audacity test demo
